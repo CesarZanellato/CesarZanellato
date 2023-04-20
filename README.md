@@ -1,5 +1,5 @@
 <h3 align="center">Hey, how are you?.</h3>
-<p> My name is Cesar Zanellato, i'm a Software Developer and Devops enthusiast. I currently work with .NET Framework and SQL Server<p>
+<p> My name is Cesar Zanellato, i'm a Software Developer. I currently work with C#, .NET Framework and SQL Server<p>
  <p>
 </a> </p>
 <h3 align="left">Connect with me:</h3>
